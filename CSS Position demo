@@ -9,6 +9,7 @@
     <style>
     * { box-sizing: border-box }
     .boxLeft {
+      position: absolute;
       margin: 15px;
       padding: 20px 10px 20px 15px;
       border: 1px solid #999;
@@ -17,6 +18,7 @@
       float: left;
     }
     .boxRight {
+      position: absolute;  
       margin: 15px;
       padding: 20px 10px 20px 15px;
       border: 1px solid #999;
