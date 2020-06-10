@@ -15,29 +15,19 @@
       width: 400px;
       float: left;
     }
-    .boxRight {
-      margin: 15px;
-      padding: 20px 10px 20px 15px;
-      border: 1px solid #999;
-      background-color: pink;
-      width: 400px;
-      float: left;
-    }
-    .boxClear {
-      margin: 15px;
-      padding: 20px 10px 20px 15px;
-      border: 1px solid #999;
-      background-color: pink;
-      width: 400px;
-      float: left;
-    }
     </style>
   </head>
 
   <body>
         <div class="boxLeft"
           <p>
-            yo
+            Essay 2 is an analysis of the Covington Catholic situation as described by Caitlin Flanagan in her piece "The Media Botched the Covington Catholic Story" through the lens of Charles Bethea's piece "What Happens When the News is Gone."
+
+You will address both essays in your essay, focusing on how Flanagan's analysis of media coverage of the Lincoln Memorial protests relates to Bethea's account of the North Carolina county that has no local news.
+
+What can the total lack of news as described by Bethea tell us about a situation like the Lincoln Memorial protests? How are they similar, how are they different?
+
+You should incorporate quotes from both readings in your essay, and if you can use quotes from the Elements of Journalism as well, even better.
           </p>
         </div>
 
