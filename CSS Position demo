@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+  <html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>CSS Positions</title>
+    <style>
+    * { box-sizing: border-box }
+    .boxLeft {
+      margin: 15px;
+      padding: 20px 10px 20px 15px;
+      border: 1px solid #999;
+      background-color: pink;
+      width: 400px;
+      float: left;
+    }
+    .boxRight {
+      margin: 15px;
+      padding: 20px 10px 20px 15px;
+      border: 1px solid #999;
+      background-color: pink;
+      width: 400px;
+      float: left;
+    }
+    .boxClear {
+      margin: 15px;
+      padding: 20px 10px 20px 15px;
+      border: 1px solid #999;
+      background-color: pink;
+      width: 400px;
+      float: left;
+    }
+    </style>
+  </head>
+
+  <body>
+        <div class="boxLeft"
+          <p>
+            yo
+          </p>
+        </div>
+
+  </body>
+  </html>
