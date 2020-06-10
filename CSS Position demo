@@ -12,14 +12,14 @@
       padding: 20px 10px 20px 15px;
       border: 1px solid #999;
       background-color: pink;
-      width: 400px;
+      width: 400px
       float: left;
     }
     </style>
   </head>
 
   <body>
-        <div class="boxLeft"
+        <div class="boxLeft">
           <p>
             Essay 2 is an analysis of the Covington Catholic situation as described by Caitlin Flanagan in her piece "The Media Botched the Covington Catholic Story" through the lens of Charles Bethea's piece "What Happens When the News is Gone."
 
