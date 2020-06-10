@@ -13,7 +13,7 @@
       border: 1px solid #999;
       background-color: pink;
       width: 400px;
-      float: left;
+      float: right;
     }
     .boxRight {
       margin: 15px;
@@ -21,7 +21,7 @@
       border: 1px solid #999;
       background-color: pink;
       width: 400px;
-      float: right;
+      float: left;
     }
     </style>  
     </head>
