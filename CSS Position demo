@@ -6,7 +6,7 @@
 
     <title>CSS Positions</title>
     <style>
-    * { box-sizing: border-box }
+    * { box-sizing: border-box; }
     .boxLeft {
       position: absolute;
       margin: 15px;
