@@ -16,8 +16,8 @@
       width: 400px
       float: left;
     }
+    </style>  
     </head>
-    </style>   
 
   <body>
         <div class="boxLeft">
