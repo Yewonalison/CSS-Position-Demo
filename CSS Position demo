@@ -17,7 +17,6 @@
       float: left;
     }
     </style>   
-  </head>
 
   <body>
         <div class="boxLeft">
@@ -33,4 +32,5 @@ You should incorporate quotes from both readings in your essay, and if you can u
         </div>
 
   </body>
+  </head>
   </html>
